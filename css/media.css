@@ -1,0 +1,336 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.h_left {
+    text-align: center;
+}
+.h_icon ul {
+    float: none; 
+    text-align: center;
+}
+.m_nav ul li a {
+    margin-left: 12px;
+    margin-top: 8px;
+}
+.btn_h1 {
+    margin-left: 10px;
+}
+/*banner start*/
+.b_text {
+   padding-left: 0;
+   text-align: center;
+   padding-bottom: 80px;
+}
+.b_h1 {
+    margin-top: 80px;
+    font-size: 35px;
+    line-height: 50px;
+}
+.b_p {
+    margin: 24px 0;
+}
+.btn_start {
+    margin-right: 7px;
+}
+.b_btn {
+    padding: 12px 15px;
+}
+/*logos start*/
+.logos {
+    padding: 40px 0;
+}
+.l_text {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.logos img{
+    margin-top: 20px;
+}
+/*courses start*/
+.c_item {
+    margin-top: 45px;
+    padding: 12px;
+}
+.c_h4 {
+    font-size: 17px;
+}
+.c_p {
+    font-size: 16px;
+}
+/*achivement start*/
+.c_padding {
+    padding: 70px 0;
+}
+.cm_h1 {
+    font-size: 38px;
+    line-height: 30.6px;
+}
+.c_h1{
+    font-size: 30px !important;
+}
+.a_h3 {
+    font-size: 32px;
+    padding-top: 20px;
+}
+.p_a {
+    padding-bottom: 22px;
+    font-size: 16px;
+}
+/*team start*/
+.team_p1 {
+    padding-bottom: 10px;
+}
+/*footer start*/
+.edu_footer {
+    text-align: center;
+}
+.f1_text {
+    padding-bottom: 10px;
+}
+.f1_form {
+    padding-bottom: 40px;
+}
+.f1_form button {
+    padding: 12px 10px;
+}
+.f_links h6 {
+    padding-bottom: 10px;
+    padding-top: 25px;
+}
+.f_link2 {
+    text-align: center;
+}
+.f_link2 p {
+    padding-right: 10px;
+}
+.f_link2 ul {
+    padding-bottom: 20px;
+}
+.f_link2 ul li a {
+    padding-right: 0;
+}
+.f_icon {
+    text-align: center;
+    padding-bottom: 30px;
+}
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.h_p {
+    font-size: 14px;
+}
+.h_p1 {
+    padding-right: 0;
+}
+.h_p2 {
+    padding-left: 5px;
+}
+.h_icon ul li i {
+    margin-right: 4px;
+}
+.m_nav ul li {
+    margin-top: 10px;
+}
+/*banner start*/
+.b_text{
+    margin: 0 60px 100px;
+    padding-left: 0;
+    text-align: center;
+}
+.b_h1 {
+    margin-top: 100px;
+    font-size: 45px;
+    line-height: 55.2px;
+}
+.b_p {
+    margin: 24px 0px;
+} 
+/*logos start*/
+.logos {
+    padding: 40px 0;
+}
+.l_text {
+    text-align: center;
+    padding-bottom: 20px;
+} 
+/*courses start*/
+.c_item {
+    margin-top: 45px;
+}
+.c_h1{
+    font-size: 38px !important;
+}
+.c_item {
+    margin-top: 45px;
+}
+/*achivement start*/
+.c_padding {
+    padding: 70px 0;
+}
+.cm_h1 {
+    font-size: 42px;
+    line-height: 30.6px;
+}
+.a_h3 {
+    font-size: 32px;
+}
+/*portfolio start*/
+.mb {
+    padding-top: 40px;
+}
+.p_item {
+    margin-top: 40px;
+}
+/*team start*/
+.team_p1 {
+    padding-bottom: 10px;
+}
+/*footer start*/
+.f_img {
+    padding-bottom: 38px;
+}
+/*footer start*/
+.f1_text {
+    padding-bottom: 10px;
+}
+.f1_form {
+    padding-bottom: 40px;
+}
+.f_link2 {
+    text-align: center;
+}
+.f_link2 p {
+    padding-right: 10px;
+}
+.f_link2 ul {
+    padding-bottom: 20px;
+}
+.f_link2 ul li a {
+    padding-right: 0;
+}
+.f_icon {
+    text-align: center;
+    padding-bottom: 30px;
+}
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.m_nav ul li {
+    margin-top: 10px;
+}
+/*banner start*/
+.b_text{
+    margin: 0 60px 100px;
+    padding-left: 0;
+    text-align: center;
+}
+.b_h1 {
+    margin-top: 100px;
+}
+/*logo start*/
+.logos {
+    padding: 60px 0;
+}
+.l_text {
+    text-align: center;
+    padding-bottom: 20px;
+}
+/*courses start*/
+.c_icon {
+    margin-left: 103px;
+}
+/*achivement start*/
+.c_padding {
+    padding: 90px 0;
+}
+.a_h3 {
+    font-size: 32px;
+}
+/*portfolio start*/
+.mb {
+    padding-top: 40px;
+}
+.p_item {
+    margin-top: 40px;
+}
+/*footer start*/
+.f1_text {
+    padding-bottom: 10px;
+}
+.f1_form {
+    padding-bottom: 40px;
+}
+.f_link2 {
+    text-align: center;
+}
+.f_link2 p {
+    padding-right: 10px;
+}
+.f_link2 ul li a {
+    padding-right: 0;
+}
+.f_icon {
+    text-align: center;
+    padding-bottom: 30px;
+}
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+.m_nav ul li a {
+    font-size: 14px;
+    margin-right: 10px;
+} 
+/*banner start*/
+.b_text {
+    padding-left: 35px;
+}
+.b_h1 {
+    margin-top: 170px;
+}
+/*banner start*/
+.logos {
+    padding: 60px 0;
+}
+/*courses start*/
+.c_item {
+    padding: 12px;
+}
+.c_h4 {
+    font-size: 16px;
+}
+.c_p {
+    font-size: 15px;
+}
+/*footer start*/
+.f1_form input {
+    padding: 10px;
+}
+.f1_form button {
+    padding: 10px 17px;
+}
+.f_link2 ul li a {
+    padding-right: 10px;
+}
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*courses start*/
+.c_item {
+    padding: 12px;
+}
+.c_h4 {
+    font-size: 20px;
+}
+.c_p {
+    font-size: 16px;
+}
+}
+
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+
+}
