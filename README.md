@@ -1,2 +1,2 @@
 # Education3
-Here is the code of education project.
+https://shaylasharmin123.github.io/Education3/
